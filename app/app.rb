@@ -7,4 +7,8 @@ class BookMarkManager < Sinatra::Base
     erb :index
   end
 
+  get '/link' do
+    
+  end
+
 end
